@@ -1,6 +1,6 @@
 # StratRefine
 
-> **Enhancing Strategic Decision-Making in LLM Agents for StarCraft II**  
+> **Enhancing Strategic Reasoning and Action Generation in LLM Agents for StarCraft II**  
 > 面向《星际争霸 II》完整对局的领域专用语言模型宏观战略决策框架
 
 ![StratRefine 方法总览](./Images/stratrefine_overview.png)
